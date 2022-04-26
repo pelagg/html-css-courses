@@ -1,0 +1,20 @@
+div {
+
+	margin-left: 10px 20px 30px 40px;
+	padding: 10px 20px 30px 40px;
+}
+
+#one {
+	background: blue;
+	float: left;
+}
+#two {
+	background: gold;
+	float: right;
+}
+#three {
+	background: coral;
+}
+.clearFloat {
+	clear: both;
+}
